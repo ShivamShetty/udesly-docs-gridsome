@@ -77,7 +77,7 @@ To create a page that will be used to show all products of a category add the fo
 To create a page that will be used to show all products of a tag add the following attributes on the *Body* element of your page:
 
 <Attribute name="page" value="taxonomy" />
-<Attribute name="post-type" value="product_cat" />
+<Attribute name="post-type" value="product_tag" />
 
 #### Specific Category Page
 Sometimes you need to different styles to specific categories, for example if you have a shop that sells pretty different products you probably want to add a completely different layout for the categories. To do this just add the following attributes on the *Body* element of your page:
